@@ -61,7 +61,21 @@ With the Text Editor Application, users are presented with a seamless and intuit
 
 ## Snake Game
 
+This code is a basic Snake game application. When you run it, a window titled "Snake" will appear with a black game field. You control a snake using the arrow keys on your keyboard. The objective is to guide the snake to eat red apples that randomly appear on the field. The snake moves continuously in the direction it's facing. Every 0.5 seconds, the game checks for your input and updates accordingly. If the snake's head touches an apple, it eats it and grows longer. The game ends if the snake hits the field boundaries or if its head collides with its own body. The window closes at that point. The snake's head is yellow, and the rest of its body is green. The apples are red.
+
+<div align="center">
+	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109037508773302383/image.png" alt="Snake Game">
+</div>
+
 ## Graph App
+
+This application is designed to help users visualize numerical data in a simple and intuitive way. When you open the application, you'll see a window with a table and a graph. To use the application, all you need to do is enter numeric values into an input field and click "Submit." The application will add your data to the table and update the graph instantly. The graph will show a line connecting all the points you've entered. You can keep entering data and see how it affects the table and the graph. It's a great way to understand patterns and trends in your data. When you're done using the application, just close the window. Your data won't be saved. Overall, this application is a simple tool for visualizing numeric data. It's easy to use and provides real-time updates, allowing you to explore and analyze your data effortlessly.
+
+<div align="center">
+	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109041022446616607/image.png" alt="Graph App Base">
+	&nbsp;
+	<img src="https://cdn.discordapp.com/attachments/1081311787821043805/1109041251359133696/image.png" alt="Graph App Base With Inputs">
+</div>
 
 ## Image Editor App
 
