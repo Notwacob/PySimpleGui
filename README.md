@@ -46,48 +46,17 @@ This is a user-friendly stopwatch application that allows you to easily start, s
 
 ## Text Editor App
 
-The Text Editor Application is a user-friendly program that allows users to create, edit, and manage text documents. This documentation provides an overview of the application's features, functionality, and usage instructions.
 
-### Features
+The Text Editor Application is a highly user-friendly program designed to empower users in creating, editing, and effectively managing their text documents. This comprehensive documentation aims to provide a detailed overview of the application's exceptional features, remarkable functionality, and clear usage instructions.
 
- 1. **Menu Bar:** The application includes a menu bar with the following options:
-	 - **File:** Provides options to open, save, and exit the application.
-	 - **Tools:** Offers a word count feature to analyze the text in the document.
-	 - **Add:** Allows users to insert various smileys into the text.
- 2. **Open and Save Files:** Users can open existing text files and save their work as new files. The application provides file selection dialogs for easy file management.
- 3. **Word Count:** The word count feature calculates the total number of words and characters in the text. Users can access this functionality through the "Tools" menu, which displays the counts in a convenient popup window.
- 4. **Smileys:** The "Add" menu provides a selection of smileys categorized into different emotions. Users can insert smileys into the text by choosing an option from the dropdown list.
- 5. **User Interface Theme:** The application's graphical user interface (GUI) follows a visually appealing "GrayGrayGray" theme to ensure a pleasant and consistent user experience.
-### Usage
- 1. **Opening a File:**
-	 -   Select the "File" menu and choose the "Open" option.
-	-   A file dialog will appear. Browse and select the desired text file.
-	-   The file's content will be loaded into the text box, and the document name will be displayed above it.
-2. **Saving a File:**
-	- Select the "File" menu and choose the "Save" option.
-	-   A file dialog will open with the ability to specify the file name and location.
-	-  Enter the desired name and choose a location to save the file.
-	-   Click "Save" to save the text box content as a new text file.
-3. **Word Count:**
-	-   Open the "Tools" menu and select the "Word Count" option.
-	-   The application will analyze the text in the text box.
-	-   A popup window will display the total number of words and characters.
-4. **Adding Smileys:**
-	-   Expand the "Add" menu to reveal the smiley options.
-	-   Click on a smiley option to insert it into the text box at the current cursor position.
-5. **Exiting the Application:**
-	-   To exit the application, either close the window or select the "Exit" option from the "File" menu.
-
-### Summary
-
-The Text Editor Application provides a straightforward and intuitive user interface for creating and managing text documents. With features like file opening and saving, word counting, and smiley insertion, users can easily edit their text files and enhance their content. The application's user-friendly design and consistent theme contribute to an enjoyable user experience.
+With the Text Editor Application, users are presented with a seamless and intuitive user interface that enables effortless creation and efficient management of text documents. Boasting a rich set of features including file opening and saving, word counting, and even smiley insertion, users are equipped with all the essential tools to effortlessly edit their text files and elevate the quality of their content. The application's thoughtfully crafted design and cohesive theme contribute to a delightful and immersive user experience, ensuring a pleasant journey throughout the text editing process.
 
 <div align="center">
 	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109035388267409508/image.png" alt="Text Editor App Base">
 	&nbsp;
-	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109035388267409508/image.png" alt="Text Editor App Base">
+	<img src="https://cdn.discordapp.com/attachments/1081311787821043805/1109035852253892619/image.png" alt="Text Editor App Base with Text Input">
 	<br>
-	
+	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109036877400514622/image.png" alt="Text Editor App Word Counter">
 </div>
 
 ## Snake Game
