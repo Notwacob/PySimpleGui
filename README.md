@@ -9,6 +9,18 @@ Throughout this extensive tutorial, I have successfully developed an awe-inspiri
   <img src="https://cdn.discordapp.com/attachments/1081311787821043805/1109016405002690620/image.png" alt="launcher app">
 </div>
 
+## Table of Contents
+1. [Converter App](#Converter-App)
+2. [Calculator App](#Calculator-App)
+3. [Stopwatch App](#Stopwatch-App)
+4. [Text Editor App](#Text-Editor-App)
+5. [Snake Game](#Snake-Game)
+6. [Graph App](#Graph-App)
+7. [Image Editor App](#Image-Editor-App)
+8. [Music Player App](#Music-Player-App)
+9. [Weather App](#Weather-App)
+10. [Face Detector App](#Face-Detector-App) 
+
 ## Converter App
 
 This application serves as an intuitive converter, seamlessly transforming units for kilometers to miles, kilograms to pounds, and seconds to minutes. With a user-friendly interface, it effortlessly accepts input values and promptly generates accurate conversions. The design prioritizes simplicity, allowing for effortless expansion of the application's conversion capabilities in the future.
