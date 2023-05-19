@@ -10,18 +10,16 @@ Throughout this extensive tutorial, I have successfully developed an awe-inspiri
 </div>
 
 ## Table of Contents
-- [PySimpleGui Tutorial Code](#pysimplegui-tutorial-code)
-	- [Table of Contents](#table-of-contents)
-	- [Converter App](#converter-app)
-	- [Calculator App](#calculator-app)
-	- [Stopwatch App](#stopwatch-app)
-	- [Text Editor App](#text-editor-app)
-	- [Snake Game](#snake-game)
-	- [Graph App](#graph-app)
-	- [Image Editor App](#image-editor-app)
-	- [Music Player App](#music-player-app)
-	- [Weather App](#weather-app)
-	- [Face Detector App](#face-detector-app)
+1. [Converter App](#converter-app)
+2. [Calculator App](#calculator-app)
+3. [Stopwatch App](#stopwatch-app)
+4. [Text Editor App](#text-editor-app)
+5. [Snake Game](#snake-game)
+6. [Graph App](#graph-app)
+7. [Image Editor App](#image-editor-app)
+8. [Music Player App](#music-player-app)
+9. [Weather App](#weather-app)
+10. [Face Detector App](#face-detector-app)
 
 ## Converter App
 
