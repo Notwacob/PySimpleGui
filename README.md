@@ -101,4 +101,14 @@ That's it! This user-friendly image editing app allows you to adjust blur, contr
 
 ## Weather App
 
+<div align="center">
+	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109055945172062249/image.png" alt="Weather App Base">
+	<br>
+	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109055945448894494/image.png" alt="Weather App with London's Weather">
+</div>
+
 ## Face Detector App
+
+<div align="center">
+	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109055945813790730/image.png" alt="Face Detector App Base">
+</div>
