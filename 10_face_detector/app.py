@@ -1,5 +1,13 @@
+import os
 import PySimpleGUI as sg
 import cv2
+
+file_path = '10_face_detector/haarcascade_frontalface_default.xml'
+
+if os.path.isfile(file_path):
+    file_path = '10_face_detector/haarcascade_frontalface_default.xml'
+else:
+    file_path = 'haarcascade_frontalface_default.xml'
 
 layout = [
     [sg.Image(key = '-IMAGE-')],
@@ -10,7 +18,7 @@ window = sg.Window('Face Detector', layout)
 
 # get video
 video = cv2.VideoCapture(0)
-face_cascade = cv2.CascadeClassifier('10_face_detector/haarcascade_frontalface_default.xml')
+face_cascade = cv2.CascadeClassifier(file_path)
 
 while True:
     event, values = window.read(timeout = 0)
