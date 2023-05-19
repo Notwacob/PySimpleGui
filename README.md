@@ -40,6 +40,7 @@ This is a user-friendly stopwatch application that allows you to easily start, s
 	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109030510652575785/image.png" alt="Stopwatch App Base">
 	&nbsp;
 	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109030960391016458/image.png" alt="Stopwatch App Base with Outputs">
+	&nbsp;
 	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109031684411752530/image.png" alt="Stopwatch App Base After Hitting Stop button">
 </div>
 
