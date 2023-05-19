@@ -1,6 +1,14 @@
+import os
 import PySimpleGUI as sg
 from bs4 import BeautifulSoup as bs
 import requests
+
+image_path = '09_weather_app/symbols/sun.png'
+
+if os.path.isfile(image_path):
+    symbols = '09_weather_app/'
+else:
+    symbols = ''
 
 def get_weather_data(location):
     USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36"
@@ -49,7 +57,6 @@ while True:
         window['-TIME-'].update(time.split(' ')[0], visible = True)
         window['-TEMP-'].update(f'{temp} \u2103 ({weather})', visible = True)
 
-        symbols = '09_weather_app/'
         # sun
         if weather in ('Sun','Sunny','Clear','Clear with periodic clouds', 'Mostly sunny'):
             window['-IMAGE-'].update(symbols+'symbols/sun.png')

@@ -1,12 +1,20 @@
+import os
 import PySimpleGUI as sg
 from time import time
+
+image_path = '03_stopwatch/cross.png'
+
+if os.path.isfile(image_path):
+    image_path = "03_stopwatch/"
+else:
+    image_path = ""
 
 def create_window():
     sg.theme('black')
     layout = [
         [
             sg.Push(),
-            sg.Image('03_stopwatch/cross.png',
+            sg.Image(image_path+"cross.png",
             pad = 0,
             enable_events = True,
             key = '-CLOSE-')

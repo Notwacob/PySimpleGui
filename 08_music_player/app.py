@@ -1,3 +1,4 @@
+import os
 import PySimpleGUI as sg
 
 import base64
@@ -26,8 +27,15 @@ time_since_start = 0
 pause_amount = 0
 playing = False
 
-play_image = base64_image_import('08_music_player/play.png')
-pause_image = base64_image_import('08_music_player/pause.png')
+image_path = '08_music_player/play.png'
+
+if os.path.isfile(image_path):
+    image_path = "08_music_player/"
+else:
+    image_path = ""
+
+play_image = base64_image_import(image_path+'play.png')
+pause_image = base64_image_import(image_path+'pause.png')
 
 sg.theme('reddit')
 
