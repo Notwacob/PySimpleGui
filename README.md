@@ -93,6 +93,8 @@ That's it! This user-friendly image editing app allows you to adjust blur, contr
 
 ## Music Player App
 
+This music player application has a simple interface. When you open the program, a window appears with a play button and a pause button. You can select a song file from your computer, and its name will be displayed. Clicking the play button starts playing the song, and the pause button allows you to pause the playback. There is also a volume slider to adjust the volume level. The window can be closed when you're done using the application.
+
 <div align="center">
 	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109046028046446642/image.png" alt="Music Player App Play Tab">
 	&nbsp;
@@ -101,6 +103,14 @@ That's it! This user-friendly image editing app allows you to adjust blur, contr
 
 ## Weather App
 
+The weather application is a user-friendly tool that allows you to check the weather for different locations. When you open the application, you'll see a window with an input field where you can enter the name of a city or town. Once you type in the location and press the "Enter" button, the application fetches the latest weather data for that location from the internet.
+
+The retrieved weather information, including the location name, current time, weather conditions, and temperature, is then displayed in the application window. Additionally, the application uses weather symbols to visually represent the current weather conditions, making it easier to understand at a glance.
+
+You can continue using the application by entering new locations and receiving their respective weather updates. Whenever you're done, simply close the application window to exit the program.
+
+Overall, this weather application provides a straightforward way to stay informed about the weather conditions in different places, with real-time data and a clean user interface.
+
 <div align="center">
 	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109055945172062249/image.png" alt="Weather App Base">
 	<br>
@@ -108,6 +118,8 @@ That's it! This user-friendly image editing app allows you to adjust blur, contr
 </div>
 
 ## Face Detector App
+
+This face detector app has a window where you can see yourself through your computer's camera. As the app runs, it automatically recognizes and outlines any faces it detects in the video stream using green rectangles. Below the video, there's a number that shows how many faces are currently visible. For example, if there are three faces in the frame, it will display "3" next to "People in picture." You can move around or invite others to join the frame, and the app will instantly update the rectangles and the face count. When you're done using the app, you simply close the window, and it gracefully stops accessing the camera. Overall, it's a user-friendly app that uses your computer's camera to detect faces in real-time and provides a count of the number of faces it finds. It's a fun and convenient tool for various purposes, like knowing how many people are in the frame or exploring face detection technology.
 
 <div align="center">
 	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109055945813790730/image.png" alt="Face Detector App Base">
