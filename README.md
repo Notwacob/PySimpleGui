@@ -73,13 +73,31 @@ This application is designed to help users visualize numerical data in a simple 
 
 <div align="center">
 	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109041022446616607/image.png" alt="Graph App Base">
-	&nbsp;
 	<img src="https://cdn.discordapp.com/attachments/1081311787821043805/1109041251359133696/image.png" alt="Graph App Base With Inputs">
 </div>
 
 ## Image Editor App
 
+The app has a user-friendly interface with two main sections. On the left side of the window, you'll see sliders and checkboxes. These sliders control the blur and contrast of the image, allowing you to make it more or less blurry and adjust the brightness. The checkboxes enable special effects like embossing, which creates a 3D effect, and contouring, which enhances object edges.
+
+On the right side of the window, the app displays the image you're editing. As you make changes using the sliders and checkboxes, the image updates in real-time, instantly showing you the effects. If you want to flip the image horizontally or vertically, simply check the corresponding boxes, and the image will flip accordingly, reflecting the changes immediately.
+
+When you're satisfied with the edits, you can click the "Save" button. The app will prompt you to choose a location on your computer to save the edited image as a PNG file. Give it a name, and it will be saved for you. If you're done editing or want to exit the app, simply close the window as you would with any other program.
+
+That's it! This user-friendly image editing app allows you to adjust blur, contrast, apply special effects, flip the image, and save your edits easily. It's a straightforward tool for editing images without any complex steps or confusing options.
+
+<div align="center">
+	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109042094745604177/image.png" alt="Image Editor App Base">
+	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109042095014023239/image.png" alt="Image Editor With Inputs">
+</div>
+
 ## Music Player App
+
+<div align="center">
+	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109046028046446642/image.png" alt="Music Player App Play Tab">
+	&nbsp;
+	<img src="https://media.discordapp.net/attachments/1081311787821043805/1109046028285513748/image.png" alt="Music Player App Volume Tab">
+</div>
 
 ## Weather App
 
